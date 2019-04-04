@@ -7,6 +7,13 @@ if(true)
 echo "asdasd";
 }
 
+
+if(true)
+{
+echo "asdasd";
+}
+
+
 if(!$a)
 {
 	echo "sdf sdfsdfsdf sdf";
