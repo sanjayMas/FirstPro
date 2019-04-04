@@ -3,7 +3,7 @@ echo "Hello world!!!";
 $a = 1;
 if(!$a)
 {
-	echo "zzzzzzzzzzzzzzzzz";
+	echo "rrrrrrrrrrrrrrrrr";
 }
 
 echo "Hello world!!!";
