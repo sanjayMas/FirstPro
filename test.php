@@ -4,7 +4,7 @@ $a = 1;
 
 if(true)
 {
-echo "asdasd";
+echo "ssssssssssssssssssssss";
 }
 
 
