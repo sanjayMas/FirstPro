@@ -7,7 +7,7 @@ $a = 1;
 
 if(true)
 {
-echo "ssssssssssssssssssssss git hub";
+echo "sssssssssssssssssssssssss git hub";
 }
 
 
